@@ -94,7 +94,7 @@ body{
 
 @media screen and (max-width:780px){
     body{
-        background-image: url(./images/bg-intro-mobile.png);
+        background-image: url(./images/bg-intro-desktop.png);
     }
     .main-container-class{
         display: flex;
@@ -152,7 +152,7 @@ body{
 
 @media screen and (max-height:610px) {
     body{
-        background-image: url(./images/bg-intro-mobile.png);
+        background-image: url(./images/bg-intro-desktop.png);
     }
     .main-container-class{
         height: 100vh;    
